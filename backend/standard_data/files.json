@@ -1,0 +1,37 @@
+[
+  {
+    "name": "default_course",
+    "file_name": "course_aip.jpg",
+    "uploaded_by_id": 1
+  },
+  {
+    "name": "course_obd",
+    "file_name": "course_obd.png",
+    "uploaded_by_id": 1
+  },
+  {
+    "name": "course_math",
+    "file_name": "course_math.jpg",
+    "uploaded_by_id": 1
+  },
+  {
+    "name": "course_web",
+    "file_name": "course_web.jpg",
+    "uploaded_by_id": 1
+  },
+  {
+    "name": "course_tau",
+    "file_name": "course_tau.jpg",
+    "uploaded_by_id": 1
+  },
+  {
+    "name": "course_izup",
+    "file_name": "course_izup.png",
+    "uploaded_by_id": 1
+  },
+  {
+    "name": "course_km",
+    "file_name": "course_km.jpg",
+    "uploaded_by_id": 1
+  }
+]

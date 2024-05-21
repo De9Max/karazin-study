@@ -1,0 +1,100 @@
+[
+  {
+    "lesson_name": "ОБД",
+    "lesson_type": "Практика",
+    "teacher": "Валентина Лазурик",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "АІП",
+    "lesson_type": "Практика",
+    "teacher": "Кирило Хмельницький",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "Математика",
+    "lesson_type": "Практика",
+    "teacher": "Оксана Подоляка",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "Веб-розробка",
+    "lesson_type": "Практика",
+    "teacher": "Сергій Севидов",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "ТАУ",
+    "lesson_type": "Практика",
+    "teacher": "Савченко Костянтин",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "ІЗУП",
+    "lesson_type": "Практика",
+    "teacher": " Легенький Гліб",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "КМ",
+    "lesson_type": "Практика",
+    "teacher": "Махниборода Денис",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "Веб-розробка",
+    "lesson_type": "Лекція",
+    "teacher": "Сергій Севидов",
+    "url": "google.com",
+    "usergroup_id": 2
+  },
+  {
+    "lesson_name": "Математика",
+    "lesson_type": "Лекція",
+    "teacher": "Оксана Подоляка",
+    "url": "google.com",
+    "usergroup_id": 2
+  },
+  {
+    "lesson_name": "ОБД",
+    "lesson_type": "Лекція",
+    "teacher": "Валентина Лазурик",
+    "url": "google.com",
+    "usergroup_id": 3
+  },
+  {
+    "lesson_name": "АІП",
+    "lesson_type": "Лекція",
+    "teacher": "Кирило Хмельницький",
+    "url": "google.com",
+    "usergroup_id": 3
+  },
+  {
+    "lesson_name": "ТАУ",
+    "lesson_type": "Лекція",
+    "teacher": "Савченко Костянтин",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "ІЗУП",
+    "lesson_type": "Лекція",
+    "teacher": " Легенький Гліб",
+    "url": "google.com",
+    "usergroup_id": 1
+  },
+  {
+    "lesson_name": "КМ",
+    "lesson_type": "Лекція",
+    "teacher": "Махниборода Денис",
+    "url": "google.com",
+    "usergroup_id": 1
+  }
+]

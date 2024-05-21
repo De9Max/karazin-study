@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Администратор",
+    "surname": "I am god",
+    "password": "admin",
+    "email": "admin@mail.com",
+    "usergroup_id": 1,
+    "admin": 1,
+    "teacher": 1
+  },
+  {
+    "name": "Денис",
+    "surname": "Махниборода",
+    "password": "denys",
+    "email": "denys@mail.com",
+    "usergroup_id": 2,
+    "admin": 1,
+    "teacher": 1
+  },
+  {
+    "name": "Гліб",
+    "surname": "Легенький",
+    "password": "gleb",
+    "email": "gleb@mail.com",
+    "usergroup_id": 2,
+    "admin": 1,
+    "teacher": 1
+  },
+  {
+    "name": "Костянтин",
+    "surname": "Савчено",
+    "password": "kostya",
+    "email": "kostya@mail.com",
+    "usergroup_id": 3,
+    "admin": 1,
+    "teacher": 1
+  },
+  {
+    "name": "Student",
+    "surname": "KY31",
+    "password": "student",
+    "email": "studentKY@mail.com",
+    "usergroup_id": 3,
+    "admin": 0,
+    "teacher": 0
+  },
+  {
+    "name": "Student",
+    "surname": "KI31",
+    "password": "student",
+    "email": "studentKI@mail.com",
+    "usergroup_id": 2,
+    "admin": 0,
+    "teacher": 0
+  },
+  {
+    "name": "Student",
+    "surname": "KS31",
+    "password": "student",
+    "email": "studentKS@mail.com",
+    "usergroup_id": 4,
+    "admin": 0,
+    "teacher": 0
+  },
+  {
+    "name": "Student",
+    "surname": "KB31",
+    "password": "student",
+    "email": "studentKB@mail.com",
+    "usergroup_id": 5,
+    "admin": 0,
+    "teacher": 0
+  },
+  {
+    "name": "Сергій",
+    "surname": "Севидов",
+    "password": "teacher",
+    "email": "teacher1@mail.com",
+    "usergroup_id": 1,
+    "admin": 0,
+    "teacher": 1
+  },
+  {
+    "name": "Валентина",
+    "surname": "Лазурик",
+    "password": "teacher",
+    "email": "teacher2@mail.com",
+    "usergroup_id": 1,
+    "admin": 0,
+    "teacher": 1
+  },
+  {
+    "name": "Оксана",
+    "surname": "Подоляка",
+    "password": "teacher",
+    "email": "teacher3@mail.com",
+    "usergroup_id": 1,
+    "admin": 0,
+    "teacher": 1
+  },
+  {
+    "name": "Кирило",
+    "surname": "Хмельницький",
+    "password": "teacher",
+    "email": "teacher4@mail.com",
+    "usergroup_id": 1,
+    "admin": 0,
+    "teacher": 1
+  },
+  {
+    "name": "Максим",
+    "surname": "Галицький",
+    "password": "teacher",
+    "email": "teacher5@mail.com",
+    "usergroup_id": 1,
+    "admin": 0,
+    "teacher": 1
+  }
+]
