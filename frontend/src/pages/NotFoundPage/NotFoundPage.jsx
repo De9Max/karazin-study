@@ -17,7 +17,7 @@ const NotFoundPage = () => {
                         404
                     </Typography>
                     <Typography variant="h6" component="p" gutterBottom>
-                        Ошибочка вышла....
+                        Сталася помилка...
                     </Typography>
                 </Container>
             </Box>

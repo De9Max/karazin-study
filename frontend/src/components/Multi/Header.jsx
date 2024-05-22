@@ -65,13 +65,6 @@ function Header() {
                         >
                             Головна
                         </Button>
-                        <Button
-                            component={Link}
-                            to="/about_us"
-                            sx={{my: 0, color: 'white', display: 'block'}}
-                        >
-                            О нас
-                        </Button>
                     </Box>
 
                     <Box sx={{flexGrow: 0, display: 'flex', alignItems: 'center'}}>
