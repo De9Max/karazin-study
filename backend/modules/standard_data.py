@@ -52,23 +52,31 @@ def init_tasks():
         course_teacher = [
             {
                 "course_id": 1,
-                "user_id": 7,
-            },
-            {
-                "course_id": 2,
-                "user_id": 8,
-            },
-            {
-                "course_id": 2,
                 "user_id": 9,
             },
             {
-                "course_id": 3,
+                "course_id": 2,
+                "user_id": 10,
+            },
+            {
+                "course_id": 2,
                 "user_id": 11,
             },
             {
+                "course_id": 3,
+                "user_id": 12,
+            },
+            {
                 "course_id": 4,
-                "user_id": 10,
+                "user_id": 9,
+            },
+            {
+                "course_id": 5,
+                "user_id": 4,
+            },
+            {
+                "course_id": 6,
+                "user_id": 2,
             },
         ]
         db.execute(insert(course_teacher_association), course_teacher)
