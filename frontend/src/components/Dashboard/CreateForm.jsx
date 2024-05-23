@@ -3,7 +3,7 @@ import Button from '@mui/material/Button';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 
-const CourseTaskForm = ({form_name, fields}) => {
+const CourseTaskForm = ({form_name, fields,imagePreview}) => {
     return (
         <Box
             sx={{
@@ -51,9 +51,33 @@ const CourseTaskForm = ({form_name, fields}) => {
                             />
 
                         )}
+                        {field.type === 'input_image' && (
+                            <>
+                                {imagePreview ? (
+                                    <img src={imagePreview} alt="Image Preview"
+                                         style={{maxWidth: '100%', maxHeight: '200px', marginTop: '10px'}}/>
+                                ) : (
+
+                                    <Button
+                                        variant="contained"
+                                        component="label"
+                                        sx={{width: '100%', mt: 2}}
+                                    >
+                                        Upload File
+                                        <input
+                                            type="file"
+                                            hidden
+                                            onChange={e => field.set_input(e)}
+                                        />
+                                    </Button>
+                                )}
+                            </>
+
+                        )}
                         <div style={{paddingBottom: 20}}/>
                     </div>
                 ))}
+
                 {fields.map((field, index) => (
                         <div key={index}>
                             {field.type === "button" && (
